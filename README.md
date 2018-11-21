@@ -1,7 +1,7 @@
 # Visualization-in-Python
 We will be using various Python libraries to interactively visualize the data.
 
-# Bokeh
+# 1.Bokeh
 - Bokeh is an interactive Python data visualization library which targets modern web browsers for presentation. 
 - Bokeh aims at providing high-performing interactivity with the concise construction of novel graphics over very large or even streaming datasets in a quick, easy way and elegant manner.
 
