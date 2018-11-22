@@ -22,13 +22,17 @@ We will be using various Python libraries to interactively visualize the data.
 
 - geoplotlib requires:
 a. numpy
-pyglet 1.2.4
+
+b. pyglet 1.2.4
 note: in order for pyglet to work with ipython on Mac, version 1.2.4 or newer is needed
+
 optional requirements:
 
-b. matplotlib for colormaps
-c. scipy for some layers
-d. pyshp for reading .shp files
+c. matplotlib for colormaps
+
+d. scipy for some layers
+
+e. pyshp for reading .shp files
 
 ## to install from source run:
 
