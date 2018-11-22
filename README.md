@@ -7,7 +7,7 @@ We will be using various Python libraries to interactively visualize the data.
 
 ## Bokeh offers simple, flexible and powerful features and provides two interface levels:
 
-1.Bokeh.models: A low-level interface which provides the application developers with most flexibility.
+1.Bokeh.models: A low-level interface which provides the application developers with most flexibility. <br>
 2.Bokeh.plotting: A higher-level interface to compose visual glyphs.
 
 ## Bokeh Dependencies
