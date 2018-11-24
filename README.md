@@ -21,7 +21,7 @@ We will be using various Python libraries to interactively visualize the data.
 
 - Many times you might have seen a cloud filled with lots of words in different sizes, which represent the frequency or the importance of each word. This is called Tag Cloud or WordCloud. 
 
-Prerequisites:
+## Prerequisites:
 
 You will need to install some packages below:
 
@@ -34,14 +34,14 @@ You will need to install some packages below:
 # 3. Geoplotlib
 - Geoplotlib is a toolbox for creating maps and plotting geographical data. You can use it to create a variety of map-types, like choropleths, heatmaps, and dot density maps. You must have Pyglet (an object-oriented programming interface) installed to use geoplotlib. Nonetheless, since most Python data visualization libraries don’t offer maps, it’s nice to have a library dedicated solely to them.
 
-- geoplotlib requires:
+## Geoplotlib requires:
 
 a. numpy
 
 b. pyglet 1.2.4
 note: in order for pyglet to work with ipython on Mac, version 1.2.4 or newer is needed
 
-optional requirements:
+## optional requirements:
 
 c. matplotlib for colormaps
 
@@ -49,10 +49,10 @@ d. scipy for some layers
 
 e. pyshp for reading .shp files
 
-## to install from source run:
+## To install from source run:
 
 - python setup.py install
 
-or with pip:
+## or with pip:
 
 - pip install geoplotlib
