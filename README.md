@@ -56,3 +56,7 @@ e. pyshp for reading .shp files
 ## or with pip:
 
 - pip install geoplotlib
+
+
+# 4. Choropleth Maps
+- A map that uses differences in shading, coloring, or the placing of symbols within predefined areas to indicate the average values of a property or quantity in those areas.
