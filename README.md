@@ -60,3 +60,6 @@ e. pyshp for reading .shp files
 
 # 4. Choropleth Maps
 - A map that uses differences in shading, coloring, or the placing of symbols within predefined areas to indicate the average values of a property or quantity in those areas.
+
+# 5. Plotly-Express 
+- Plotly Express is a new high-level Python visualization library: it’s wrapper for Plotly.py that exposes a simple syntax for complex charts. Inspired by Seaborn and ggplot2, it was specifically designed to have a terse, consistent and easy-to-learn API: with just a single import, you can make richly interactive plots in just a single function call, including faceting, maps, animations, and trendlines.
