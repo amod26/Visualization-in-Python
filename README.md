@@ -29,7 +29,7 @@ You will need to install some packages below:
 - pandas <br>
 - matplotlib <br>
 - pillow <br>
-- wordcloud 
+- wordcloud  
 
 # 3. Geoplotlib
 - Geoplotlib is a toolbox for creating maps and plotting geographical data. You can use it to create a variety of map-types, like choropleths, heatmaps, and dot density maps. You must have Pyglet (an object-oriented programming interface) installed to use geoplotlib. Nonetheless, since most Python data visualization libraries don’t offer maps, it’s nice to have a library dedicated solely to them.
